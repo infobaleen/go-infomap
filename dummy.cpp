@@ -1,0 +1,1 @@
+// dummy c++ file to ensure Go uses a C++ linker
